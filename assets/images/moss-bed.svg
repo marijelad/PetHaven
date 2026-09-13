@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 250 250">
+    <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#C7D9C6"/><stop offset="1" stop-color="#f8f5ef"/></linearGradient></defs>
+    <rect width="250" height="250" rx="28" fill="url(#g)"/>
+    <circle cx="205" cy="42" r="22" fill="#fff" opacity=".45"/><circle cx="38" cy="199" r="31" fill="#fff" opacity=".32"/>
+    <circle cx='125' cy='128' r='46' fill='#fff' opacity='.95'/><ellipse cx='83' cy='112' rx='18' ry='34' fill='#fff'/><ellipse cx='167' cy='112' rx='18' ry='34' fill='#fff'/>
+    <circle cx='109' cy='126' r='4.5' fill='#263238'/><circle cx='141' cy='126' r='4.5' fill='#263238'/><path d='M120 140 Q125 146 130 140' stroke='#263238' stroke-width='3' fill='none' stroke-linecap='round'/>
+    <rect x='57' y='184' width='136' height='31' rx='15' fill='#263238' opacity='.88'/><text x='125' y='204' font-family='Arial, sans-serif' font-size='11' text-anchor='middle' fill='white'>Moss Bed</text>
+    </svg>

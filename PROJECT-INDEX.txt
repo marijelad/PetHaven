@@ -1,0 +1,35 @@
+PetHaven project files
+
+HTML pages (32):
+404.html
+about.html
+account.html
+article-dog-walk.html
+article-indoor-cat.html
+best-sellers.html
+cart.html
+cats.html
+checkout.html
+collections.html
+contact.html
+dogs.html
+faq.html
+index.html
+journal.html
+new-arrivals.html
+order-tracking.html
+privacy.html
+product-cloud-nest.html
+product-moss-bed.html
+product-orbit-feeder.html
+product-pawstep-tower.html
+product-peek-tunnel.html
+product-scout-harness.html
+product-slow-bowl.html
+product-trail-pouch.html
+returns.html
+shipping.html
+shop.html
+size-guide.html
+terms.html
+wishlist.html
